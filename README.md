@@ -1,5 +1,5 @@
-# Babbies
-A silly script to name babies
+# Baby Names
+A simple script for choosing a baby name 
 
 -Clone this in a python 3.x environment
 -SQLAlchemy is a required package
